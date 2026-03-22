@@ -7,8 +7,8 @@
   --border: #cfd5da;
   --border-strong: #959ca3;
   --accent: #1f3a52;
-  --max-width: 1120px;
-  --narrow-width: 820px;
+  --max-width: 1280px;
+  --narrow-width: 940px;
   --shadow: 0 8px 24px rgba(23, 25, 27, 0.04);
 }
 
@@ -67,12 +67,12 @@ button,
 }
 
 .container {
-  width: min(calc(100% - 2rem), var(--max-width));
+  width: min(calc(100% - 1.25rem), var(--max-width));
   margin: 0 auto;
 }
 
 .narrow {
-  width: min(calc(100% - 2rem), var(--narrow-width));
+  width: min(calc(100% - 1.25rem), var(--narrow-width));
 }
 
 .section {
@@ -298,9 +298,9 @@ button,
 
 .project-card-link {
   display: grid;
-  grid-template-columns: 180px minmax(0, 1fr);
+  grid-template-columns: 220px minmax(0, 1fr);
   gap: 1.25rem;
-  align-items: start;
+  align-items: stretch;
   height: 100%;
   padding: 1.5rem;
   text-decoration: none;
@@ -334,7 +334,8 @@ button,
 
 .project-card-media img {
   width: 100%;
-  aspect-ratio: 4 / 3;
+  height: 100%;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
   border: 1px solid var(--border);
   background: #eef1f3;
@@ -514,6 +515,11 @@ button,
 
   .hero {
     padding-top: 4.5rem;
+  }
+
+  .container,
+  .narrow {
+    width: min(calc(100% - 1rem), 100%);
   }
 
   .hero-copy,
