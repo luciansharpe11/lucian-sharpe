@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Shaft and bearing concept placeholder</title>
+  <desc id="desc">Technical placeholder graphic for a shaft and bearing concept.</desc>
+  <rect width="1200" height="720" fill="#eef1f3"/>
+  <rect x="140" y="275" width="920" height="70" fill="#dbe2e8" stroke="#8d98a3" stroke-width="8"/>
+  <circle cx="340" cy="310" r="100" fill="none" stroke="#1f3a52" stroke-width="10"/>
+  <circle cx="340" cy="310" r="46" fill="none" stroke="#1f3a52" stroke-width="10"/>
+  <circle cx="860" cy="310" r="100" fill="none" stroke="#1f3a52" stroke-width="10"/>
+  <circle cx="860" cy="310" r="46" fill="none" stroke="#1f3a52" stroke-width="10"/>
+  <text x="155" y="575" fill="#17191b" font-family="Arial, sans-serif" font-size="44">SHAFT / BEARING PLACEHOLDER</text>
+</svg>

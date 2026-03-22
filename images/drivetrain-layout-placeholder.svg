@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Drivetrain layout placeholder</title>
+  <desc id="desc">Technical placeholder graphic for drivetrain layout.</desc>
+  <rect width="1200" height="720" fill="#eef1f3"/>
+  <rect x="120" y="190" width="240" height="180" fill="none" stroke="#1f3a52" stroke-width="10"/>
+  <circle cx="470" cy="280" r="80" fill="none" stroke="#1f3a52" stroke-width="10"/>
+  <circle cx="730" cy="280" r="120" fill="none" stroke="#1f3a52" stroke-width="10"/>
+  <rect x="930" y="230" width="130" height="100" fill="none" stroke="#1f3a52" stroke-width="10"/>
+  <path d="M360 280h630" stroke="#4e5963" stroke-width="12"/>
+  <text x="145" y="575" fill="#17191b" font-family="Arial, sans-serif" font-size="44">DRIVETRAIN LAYOUT PLACEHOLDER</text>
+</svg>

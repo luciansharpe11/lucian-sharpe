@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">On-water testing placeholder</title>
+  <desc id="desc">Technical placeholder graphic for on-water testing.</desc>
+  <rect width="1200" height="720" fill="#eef1f3"/>
+  <path d="M0 470h1200v250H0z" fill="#dce6ec"/>
+  <path d="M240 400h420l110 70H170z" fill="#fdfdfd" stroke="#1f3a52" stroke-width="8"/>
+  <path d="M300 350h130" stroke="#1f3a52" stroke-width="10"/>
+  <path d="M820 380l120-70" stroke="#4e5963" stroke-width="12"/>
+  <text x="145" y="625" fill="#17191b" font-family="Arial, sans-serif" font-size="44">ON-WATER TESTING PLACEHOLDER</text>
+</svg>

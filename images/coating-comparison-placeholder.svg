@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Coating comparison placeholder</title>
+  <desc id="desc">Technical placeholder graphic for coating comparison visuals.</desc>
+  <rect width="1200" height="720" fill="#eef1f3"/>
+  <rect x="180" y="180" width="180" height="280" fill="#dfe5ea" stroke="#8d98a3" stroke-width="8"/>
+  <rect x="510" y="180" width="180" height="280" fill="#e9edef" stroke="#8d98a3" stroke-width="8"/>
+  <rect x="840" y="180" width="180" height="280" fill="#f5f7f8" stroke="#8d98a3" stroke-width="8"/>
+  <path d="M180 500h840" stroke="#4e5963" stroke-width="10"/>
+  <text x="225" y="600" fill="#17191b" font-family="Arial, sans-serif" font-size="44">COATING COMPARISON PLACEHOLDER</text>
+</svg>

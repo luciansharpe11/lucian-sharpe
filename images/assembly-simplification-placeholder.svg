@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Assembly simplification placeholder</title>
+  <desc id="desc">Technical placeholder graphic for assembly simplification.</desc>
+  <rect width="1200" height="720" fill="#eef1f3"/>
+  <rect x="120" y="140" width="380" height="380" fill="none" stroke="#8d98a3" stroke-width="8"/>
+  <rect x="700" y="190" width="250" height="270" fill="none" stroke="#1f3a52" stroke-width="10"/>
+  <path d="M520 330h120" stroke="#4e5963" stroke-width="12"/>
+  <path d="M610 285l60 45-60 45" stroke="#4e5963" stroke-width="12" fill="none"/>
+  <text x="145" y="590" fill="#17191b" font-family="Arial, sans-serif" font-size="44">ASSEMBLY SIMPLIFICATION PLACEHOLDER</text>
+</svg>

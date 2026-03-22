@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Performance report placeholder</title>
+  <desc id="desc">Technical placeholder graphic for a performance report screenshot.</desc>
+  <rect width="1200" height="720" fill="#eef1f3"/>
+  <rect x="120" y="90" width="960" height="540" fill="#ffffff" stroke="#8d98a3" stroke-width="8"/>
+  <path d="M220 520V210h700" stroke="#4e5963" stroke-width="8" fill="none"/>
+  <path d="M260 490l120-90 120 30 150-140 180 40" stroke="#1f3a52" stroke-width="10" fill="none"/>
+  <path d="M260 540h620" stroke="#8d98a3" stroke-width="8"/>
+  <text x="145" y="670" fill="#17191b" font-family="Arial, sans-serif" font-size="44">PERFORMANCE REPORT PLACEHOLDER</text>
+</svg>

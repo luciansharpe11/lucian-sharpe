@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Stator tooling concept placeholder</title>
+  <desc id="desc">Technical placeholder graphic for a tooling concept image.</desc>
+  <rect width="1200" height="720" fill="#eef1f3"/>
+  <rect x="110" y="110" width="980" height="500" fill="#fdfdfd" stroke="#8d98a3" stroke-width="8"/>
+  <rect x="210" y="210" width="250" height="250" fill="none" stroke="#1f3a52" stroke-width="10"/>
+  <rect x="520" y="170" width="360" height="330" fill="none" stroke="#4e5963" stroke-width="10"/>
+  <path d="M520 545h360" stroke="#4e5963" stroke-width="10"/>
+  <text x="140" y="575" fill="#17191b" font-family="Arial, sans-serif" font-size="44">TOOLING CONCEPT PLACEHOLDER</text>
+</svg>

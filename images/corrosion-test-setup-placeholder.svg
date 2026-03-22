@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Corrosion test setup placeholder</title>
+  <desc id="desc">Technical placeholder graphic for a corrosion test setup.</desc>
+  <rect width="1200" height="720" fill="#eef1f3"/>
+  <rect x="180" y="170" width="840" height="320" fill="#f8fafb" stroke="#8d98a3" stroke-width="8"/>
+  <path d="M280 240h640M280 320h640M280 400h640" stroke="#4e5963" stroke-width="10"/>
+  <circle cx="330" cy="320" r="38" fill="none" stroke="#1f3a52" stroke-width="10"/>
+  <circle cx="870" cy="320" r="38" fill="none" stroke="#1f3a52" stroke-width="10"/>
+  <text x="180" y="600" fill="#17191b" font-family="Arial, sans-serif" font-size="44">CORROSION TEST SETUP PLACEHOLDER</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Propeller comparison placeholder</title>
+  <desc id="desc">Technical placeholder graphic for propeller comparison visuals.</desc>
+  <rect width="1200" height="720" fill="#eef1f3"/>
+  <circle cx="350" cy="320" r="130" fill="none" stroke="#1f3a52" stroke-width="10"/>
+  <circle cx="850" cy="320" r="130" fill="none" stroke="#4e5963" stroke-width="10"/>
+  <path d="M350 320l-130-35 70-95 60 130 60-130 70 95z" fill="none" stroke="#1f3a52" stroke-width="10"/>
+  <path d="M850 320l-120-25 50-110 70 135 80-120 60 95z" fill="none" stroke="#4e5963" stroke-width="10"/>
+  <text x="170" y="600" fill="#17191b" font-family="Arial, sans-serif" font-size="44">PROPELLER COMPARISON PLACEHOLDER</text>
+</svg>
