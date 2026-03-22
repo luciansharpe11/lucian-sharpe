@@ -67,12 +67,12 @@ button,
 }
 
 .container {
-  width: min(calc(100% - 1.25rem), var(--max-width));
+  width: min(calc(100% - 0.75rem), var(--max-width));
   margin: 0 auto;
 }
 
 .narrow {
-  width: min(calc(100% - 1.25rem), var(--narrow-width));
+  width: min(calc(100% - 0.75rem), var(--narrow-width));
 }
 
 .section {
@@ -519,7 +519,7 @@ button,
 
   .container,
   .narrow {
-    width: min(calc(100% - 1rem), 100%);
+    width: min(calc(100% - 0.5rem), 100%);
   }
 
   .hero-copy,
