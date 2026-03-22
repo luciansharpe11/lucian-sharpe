@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-labelledby="title">
+  <title>Landed cost model placeholder</title>
+  <rect width="960" height="720" fill="#eef1f3"/>
+  <rect x="140" y="150" width="680" height="430" rx="20" fill="#ffffff" stroke="#cfd5da" stroke-width="10"/>
+  <line x1="220" y1="250" x2="740" y2="250" stroke="#cfd5da" stroke-width="8"/>
+  <line x1="220" y1="330" x2="740" y2="330" stroke="#cfd5da" stroke-width="8"/>
+  <line x1="220" y1="410" x2="740" y2="410" stroke="#cfd5da" stroke-width="8"/>
+  <line x1="220" y1="490" x2="740" y2="490" stroke="#cfd5da" stroke-width="8"/>
+  <rect x="590" y="210" width="150" height="50" rx="10" fill="#17191b"/>
+  <rect x="560" y="450" width="180" height="50" rx="10" fill="#17191b"/>
+  <text x="180" y="110" fill="#50565c" font-family="Arial, Helvetica, sans-serif" font-size="34">Landed Cost Model</text>
+</svg>

@@ -297,15 +297,51 @@ button,
 }
 
 .project-card-link {
-  display: block;
+  display: grid;
+  grid-template-columns: 180px minmax(0, 1fr);
+  gap: 1.25rem;
+  align-items: start;
   height: 100%;
   padding: 1.5rem;
+  text-decoration: none;
+}
+
+.project-card-link,
+.project-card-link:hover,
+.project-card-link:focus-visible,
+.project-card-link * {
   text-decoration: none;
 }
 
 .project-card-link:hover,
 .project-card-link:focus-visible {
   background: var(--surface-muted);
+}
+
+.project-card-link-wide {
+  grid-template-columns: 1fr;
+  min-height: 12rem;
+  align-items: center;
+}
+
+.project-card-wide {
+  grid-column: 1 / -1;
+}
+
+.project-card-media {
+  margin: 0;
+}
+
+.project-card-media img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border: 1px solid var(--border);
+  background: #eef1f3;
+}
+
+.project-card-body {
+  min-width: 0;
 }
 
 .project-card h3 a,
@@ -315,6 +351,37 @@ button,
 
 .tag-list {
   color: var(--text-soft);
+}
+
+.project-list-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+}
+
+.project-list-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+  padding: 1.25rem;
+}
+
+.project-list-figure {
+  margin: 0;
+}
+
+.project-list-figure img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border: 1px solid var(--border);
+  background: #eef1f3;
+}
+
+.project-list-figure figcaption {
+  padding-top: 0.85rem;
+  color: var(--text);
+  font-weight: 600;
 }
 
 .cta-panel {
@@ -397,7 +464,12 @@ button,
   .cta-panel,
   .card-grid,
   .contact-grid,
-  .skill-groups {
+  .skill-groups,
+  .project-list-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .project-card-link {
     grid-template-columns: 1fr;
   }
 
