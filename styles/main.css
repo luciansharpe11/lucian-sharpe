@@ -288,7 +288,7 @@ button,
 }
 
 .project-card {
-  padding: 1.5rem;
+  padding: 0;
 }
 
 .project-card h3 {
@@ -296,7 +296,20 @@ button,
   font-size: 1.28rem;
 }
 
-.project-card h3 a {
+.project-card-link {
+  display: block;
+  height: 100%;
+  padding: 1.5rem;
+  text-decoration: none;
+}
+
+.project-card-link:hover,
+.project-card-link:focus-visible {
+  background: var(--surface-muted);
+}
+
+.project-card h3 a,
+.project-card-link h3 {
   text-decoration: none;
 }
 
