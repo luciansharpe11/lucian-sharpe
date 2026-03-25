@@ -405,6 +405,22 @@ button,
   margin-bottom: 0;
 }
 
+.project-image-gallery-three {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.25rem;
+  align-items: start;
+}
+
+.project-image-gallery-three h2 {
+  grid-column: 1 / -1;
+  margin-bottom: 0;
+}
+
+.project-figure-single-row {
+  grid-column: 1 / 2;
+}
+
 .cta-panel {
   grid-template-columns: 2fr auto;
   align-items: center;
@@ -486,7 +502,8 @@ button,
   .contact-grid,
   .skill-groups,
   .project-list-grid,
-  .project-image-grid-section {
+  .project-image-grid-section,
+  .project-image-gallery-three {
     grid-template-columns: 1fr;
   }
 

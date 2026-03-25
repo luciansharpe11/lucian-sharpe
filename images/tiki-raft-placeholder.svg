@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-labelledby="title">
+  <title>Tiki raft placeholder</title>
+  <rect width="960" height="720" fill="#eef1f3"/>
+  <path d="M140 500h680" stroke="#1f3a52" stroke-width="18" stroke-linecap="round"/>
+  <rect x="250" y="420" width="460" height="80" rx="16" fill="#ffffff" stroke="#17191b" stroke-width="10"/>
+  <path d="M480 220v200" stroke="#17191b" stroke-width="14" stroke-linecap="round"/>
+  <path d="M480 230l-110 120h220z" fill="#d8dde1" stroke="#17191b" stroke-width="10"/>
+  <circle cx="300" cy="560" r="34" fill="#d8dde1" stroke="#17191b" stroke-width="8"/>
+  <circle cx="660" cy="560" r="34" fill="#d8dde1" stroke="#17191b" stroke-width="8"/>
+  <text x="265" y="150" fill="#50565c" font-family="Arial, Helvetica, sans-serif" font-size="34">Fun Project: Tiki Raft</text>
+</svg>

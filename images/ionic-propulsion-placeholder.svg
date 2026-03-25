@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-labelledby="title">
+  <title>Ionic propulsion placeholder</title>
+  <rect width="960" height="720" fill="#eef1f3"/>
+  <rect x="180" y="180" width="140" height="320" rx="18" fill="#ffffff" stroke="#17191b" stroke-width="10"/>
+  <rect x="640" y="180" width="140" height="320" rx="18" fill="#ffffff" stroke="#17191b" stroke-width="10"/>
+  <path d="M350 250h260" stroke="#17191b" stroke-width="14" stroke-linecap="round"/>
+  <path d="M350 430h260" stroke="#17191b" stroke-width="14" stroke-linecap="round"/>
+  <path d="M340 340c60-55 220-55 280 0" fill="none" stroke="#1f3a52" stroke-width="12" stroke-dasharray="18 16"/>
+  <path d="M340 340c60 55 220 55 280 0" fill="none" stroke="#1f3a52" stroke-width="12" stroke-dasharray="18 16"/>
+  <text x="200" y="130" fill="#50565c" font-family="Arial, Helvetica, sans-serif" font-size="34">Ionic Propulsion</text>
+</svg>
