@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-labelledby="title">
+  <title>Motor lift bracket placeholder</title>
+  <rect width="960" height="720" fill="#eef1f3"/>
+  <rect x="230" y="120" width="180" height="430" rx="24" fill="#ffffff" stroke="#17191b" stroke-width="10"/>
+  <rect x="390" y="330" width="280" height="110" rx="18" fill="#ffffff" stroke="#17191b" stroke-width="10"/>
+  <circle cx="320" cy="210" r="34" fill="#d8dde1" stroke="#17191b" stroke-width="8"/>
+  <circle cx="320" cy="460" r="34" fill="#d8dde1" stroke="#17191b" stroke-width="8"/>
+  <circle cx="610" cy="385" r="30" fill="#d8dde1" stroke="#17191b" stroke-width="8"/>
+  <path d="M455 225h205" stroke="#1f3a52" stroke-width="14" stroke-linecap="round"/>
+  <path d="M558 175v100" stroke="#1f3a52" stroke-width="14" stroke-linecap="round"/>
+  <text x="180" y="620" fill="#50565c" font-family="Arial, Helvetica, sans-serif" font-size="34">Motor Lift Bracket</text>
+</svg>

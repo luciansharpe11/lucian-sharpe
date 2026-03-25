@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-labelledby="title">
+  <title>Cable strain relief placeholder</title>
+  <rect width="960" height="720" fill="#eef1f3"/>
+  <rect x="170" y="250" width="230" height="160" rx="30" fill="#ffffff" stroke="#17191b" stroke-width="10"/>
+  <rect x="360" y="305" width="240" height="54" rx="20" fill="#d8dde1" stroke="#17191b" stroke-width="8"/>
+  <path d="M595 332c55 0 92-18 118-52" stroke="#17191b" stroke-width="14" fill="none" stroke-linecap="round"/>
+  <path d="M595 332c55 0 92 18 118 52" stroke="#17191b" stroke-width="14" fill="none" stroke-linecap="round"/>
+  <path d="M725 278c24 22 38 38 48 54" stroke="#1f3a52" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M725 386c24-22 38-38 48-54" stroke="#1f3a52" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <text x="190" y="590" fill="#50565c" font-family="Arial, Helvetica, sans-serif" font-size="34">Cable Strain Relief</text>
+</svg>

@@ -360,7 +360,19 @@ button,
   background: var(--surface);
   border: 1px solid var(--border);
   box-shadow: var(--shadow);
+  padding: 0;
+}
+
+.project-list-card-link {
+  display: block;
+  height: 100%;
   padding: 1.25rem;
+  text-decoration: none;
+}
+
+.project-list-card-link:hover,
+.project-list-card-link:focus-visible {
+  background: var(--surface-muted);
 }
 
 .project-list-figure {
