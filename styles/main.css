@@ -140,6 +140,19 @@ button,
   padding-top: 5.5rem;
 }
 
+body[data-page="home"] .hero.section {
+  padding-bottom: 3.25rem;
+}
+
+body[data-page="home"] #projects.section {
+  padding-top: 3.25rem;
+  padding-bottom: 3.25rem;
+}
+
+body[data-page="home"] #contact.section {
+  padding-top: 3.25rem;
+}
+
 .hero-grid,
 .cta-panel,
 .contact-grid,
@@ -552,6 +565,13 @@ button,
 
   .hero {
     padding-top: 4.5rem;
+  }
+
+  body[data-page="home"] .hero.section,
+  body[data-page="home"] #projects.section,
+  body[data-page="home"] #contact.section {
+    padding-top: 2.75rem;
+    padding-bottom: 2.75rem;
   }
 
   .container,
